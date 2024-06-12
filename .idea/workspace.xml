@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Security-Wings-Console:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Log/LogMonitoramento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Log/LogMonitoramento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Slack/SlackEnvio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Slack/SlackEnvio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAOVm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleDAOVm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processador/ProcessadorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processador/ProcessadorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processador/ProcessadorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processador/ProcessadorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processos/Navegadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processos/Navegadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processos/Outros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processos/Outros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processos/Processos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processos/Processos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/processos/Utilitarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/processos/Utilitarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ram/RamDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ram/RamDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ram/RamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ram/RamService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rede/RedeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rede/RedeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rede/RedeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rede/RedeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/volume/VolumeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/volume/VolumeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/volume/VolumeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/volume/VolumeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Security-Wings-Looca-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Java-Wings-Squad\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;V1ctorNunes&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Security-Wings-inc/Java-Wings-Squad.git&quot;,
+    &quot;accountId&quot;: &quot;c67b1145-9684-4df8-8dce-fe6c73ec22a4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2evpVzsmVFL91H08IGbXGheDixI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConsoleService.executor": "Run",
+    "Maven.Security-Wings-Looca [clean].executor": "Run",
+    "Maven.Security-Wings-Looca [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/victo/OneDrive/SPTech 2° Semestre/Pesquisa e Inovação/Java-Wings-Squad",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="puxandoDadosLooca" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsoleService">
+    <configuration name="ConsoleService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ConsoleService" />
+      <module name="Security-Wings-Looca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Log.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ConsoleService" />
+      <module name="Security-Wings-Looca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessosVM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="processos.ProcessosVM" />
+      <module name="Security-Wings-Looca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="processos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlackEnvio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="Slack-Token" value="&quot;xoxb-6946748837668-6957404982819-YExaz3nlGFAZv5o3IRvnWoOl&quot;" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Slack.SlackEnvio" />
+      <module name="Security-Wings-Looca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Slack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSlack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Slack.TesteSlack" />
+      <module name="Security-Wings-Looca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Slack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProcessosVM" />
+      <item itemvalue="Application.ConsoleService" />
+      <item itemvalue="Application.SlackEnvio" />
+      <item itemvalue="Application.TesteSlack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsoleService" />
+        <item itemvalue="Application.ProcessosVM" />
+        <item itemvalue="Application.TesteSlack" />
+        <item itemvalue="Application.SlackEnvio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86852e13-1795-425f-8e86-222783c9e3ce" name="Changes" comment="" />
+      <created>1712794934113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712794934113</updated>
+      <workItem from="1712869313690" duration="88000" />
+      <workItem from="1712869416412" duration="102000" />
+      <workItem from="1713269065332" duration="1500000" />
+      <workItem from="1713299413413" duration="352000" />
+      <workItem from="1713305409280" duration="593000" />
+      <workItem from="1713312755755" duration="391000" />
+      <workItem from="1713313234057" duration="195000" />
+      <workItem from="1713355493916" duration="6313000" />
+      <workItem from="1713392160590" duration="1862000" />
+      <workItem from="1713442484791" duration="368000" />
+      <workItem from="1713467886539" duration="11703000" />
+      <workItem from="1713567945856" duration="2551000" />
+      <workItem from="1713787997563" duration="1958000" />
+      <workItem from="1713792555324" duration="1978000" />
+      <workItem from="1713803551312" duration="3117000" />
+      <workItem from="1713818745462" duration="20000" />
+      <workItem from="1713878954189" duration="1804000" />
+      <workItem from="1713911438069" duration="5990000" />
+      <workItem from="1713960428526" duration="3700000" />
+      <workItem from="1713964292490" duration="1899000" />
+      <workItem from="1713966243087" duration="176000" />
+      <workItem from="1713982483014" duration="9087000" />
+      <workItem from="1714048831469" duration="131000" />
+      <workItem from="1714076898204" duration="206000" />
+      <workItem from="1714077471485" duration="487000" />
+      <workItem from="1714085643236" duration="20000" />
+      <workItem from="1714086445137" duration="3666000" />
+      <workItem from="1714098699506" duration="454000" />
+      <workItem from="1714133678463" duration="3352000" />
+      <workItem from="1714156404768" duration="1422000" />
+      <workItem from="1714168455783" duration="2679000" />
+      <workItem from="1714171466594" duration="233000" />
+      <workItem from="1714171725913" duration="164000" />
+      <workItem from="1714171914817" duration="113000" />
+      <workItem from="1714172039077" duration="16000" />
+      <workItem from="1714172093112" duration="135000" />
+      <workItem from="1714172239404" duration="315000" />
+      <workItem from="1714172586825" duration="52000" />
+      <workItem from="1714172652158" duration="343000" />
+      <workItem from="1714173010978" duration="1033000" />
+      <workItem from="1714174060119" duration="21000" />
+      <workItem from="1714174123268" duration="537000" />
+      <workItem from="1714174727872" duration="2421000" />
+      <workItem from="1714178412521" duration="486000" />
+      <workItem from="1714224477627" duration="10449000" />
+      <workItem from="1714317397739" duration="10838000" />
+      <workItem from="1714339898610" duration="6910000" />
+      <workItem from="1714391963597" duration="1381000" />
+      <workItem from="1714393384905" duration="244000" />
+      <workItem from="1714393672439" duration="728000" />
+      <workItem from="1714397820296" duration="2835000" />
+      <workItem from="1714478277823" duration="1438000" />
+      <workItem from="1714582311953" duration="34000" />
+      <workItem from="1714582364415" duration="23040000" />
+      <workItem from="1714651408157" duration="71000" />
+      <workItem from="1714653442034" duration="22460000" />
+      <workItem from="1714692541344" duration="309000" />
+      <workItem from="1714692869328" duration="6860000" />
+      <workItem from="1714699839846" duration="162000" />
+      <workItem from="1714737552909" duration="6822000" />
+      <workItem from="1714747080194" duration="1815000" />
+      <workItem from="1714758075810" duration="37000" />
+      <workItem from="1714758128256" duration="286000" />
+      <workItem from="1714758432098" duration="1634000" />
+      <workItem from="1714772343452" duration="4891000" />
+      <workItem from="1714777675654" duration="5525000" />
+      <workItem from="1714784980363" duration="4094000" />
+      <workItem from="1714839109935" duration="37075000" />
+      <workItem from="1714938172957" duration="205000" />
+      <workItem from="1714938675023" duration="23000" />
+      <workItem from="1714938745784" duration="17000" />
+      <workItem from="1714939170807" duration="29000" />
+      <workItem from="1714952186914" duration="293000" />
+      <workItem from="1714998587081" duration="1030000" />
+      <workItem from="1715021903572" duration="479000" />
+      <workItem from="1715022414376" duration="6573000" />
+      <workItem from="1715116986611" duration="2627000" />
+      <workItem from="1715462346977" duration="2158000" />
+      <workItem from="1715464538920" duration="1912000" />
+      <workItem from="1715620406983" duration="2080000" />
+      <workItem from="1715627264791" duration="3193000" />
+      <workItem from="1715730163273" duration="351000" />
+      <workItem from="1715794722433" duration="38000" />
+      <workItem from="1715805686869" duration="7989000" />
+      <workItem from="1715888544661" duration="1841000" />
+      <workItem from="1715893737845" duration="1508000" />
+      <workItem from="1715898803100" duration="2096000" />
+      <workItem from="1715901581662" duration="21000" />
+      <workItem from="1715996127650" duration="746000" />
+      <workItem from="1716080337119" duration="78000" />
+      <workItem from="1716138698119" duration="217000" />
+      <workItem from="1716141995097" duration="1644000" />
+      <workItem from="1716237251703" duration="1052000" />
+      <workItem from="1716249374501" duration="1607000" />
+      <workItem from="1716410984814" duration="2651000" />
+      <workItem from="1716417062486" duration="439000" />
+      <workItem from="1716417580852" duration="160000" />
+      <workItem from="1716417878383" duration="57000" />
+      <workItem from="1716418040839" duration="4799000" />
+      <workItem from="1716493933374" duration="343000" />
+      <workItem from="1716601818493" duration="3113000" />
+      <workItem from="1716671075294" duration="10646000" />
+      <workItem from="1716833056726" duration="2561000" />
+      <workItem from="1716835674180" duration="13316000" />
+      <workItem from="1716898596916" duration="21821000" />
+      <workItem from="1716937149825" duration="4528000" />
+      <workItem from="1716987057745" duration="9417000" />
+      <workItem from="1717012038466" duration="9319000" />
+      <workItem from="1717118411167" duration="4708000" />
+      <workItem from="1717963804522" duration="4830000" />
+      <workItem from="1717204333589" duration="2110000" />
+      <workItem from="1717611290704" duration="2208000" />
+      <workItem from="1717615359990" duration="3098000" />
+      <workItem from="1717620113467" duration="811000" />
+      <workItem from="1717677786097" duration="8815000" />
+      <workItem from="1717704896379" duration="1308000" />
+      <workItem from="1717713540338" duration="2516000" />
+      <workItem from="1717792785499" duration="6398000" />
+      <workItem from="1717952856559" duration="2209000" />
+      <workItem from="1717977228119" duration="27000" />
+      <workItem from="1717977624164" duration="107000" />
+      <workItem from="1717977787044" duration="11000" />
+      <workItem from="1717977929949" duration="2000" />
+      <workItem from="1717978117715" duration="1178000" />
+      <workItem from="1718022495027" duration="1036000" />
+      <workItem from="1718221710130" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+</project>
